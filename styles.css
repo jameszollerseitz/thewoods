@@ -1,0 +1,11 @@
+/*main header color green*/
+body{background-color: darkolivegreen}
+h1{color:darkseagreen}
+h2{font-family: fantasy;
+    color:mediumseagreen;
+    width: 500px;
+    padding: 1.5em;
+    border-radius: 1em;
+    background-color:azure
+li{color:darkslategrey}
+    
